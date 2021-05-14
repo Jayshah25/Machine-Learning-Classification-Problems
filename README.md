@@ -1,5 +1,5 @@
-# Exploratory-Data-Analysis
+# Machine Learning Classification Problems 
 
-The repository displays Exploratory Data Analysis on the Following Datasets:
+The repository solves ML Classification Problems on the Following Datasets:
 
-1. Iris Dataset
+1. Car Evaluation Dataset (Imbalanced Dataset)
