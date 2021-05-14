@@ -2,4 +2,4 @@
 
 The repository solves ML Classification Problems on the Following Datasets:
 
-1. Car Evaluation Dataset (Imbalanced Dataset)
+1. Car Evaluation Data (Imbalanced Dataset)
